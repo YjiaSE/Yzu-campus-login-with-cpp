@@ -3,7 +3,7 @@
 + [py版本](https://github.com/TerraceCN/yzu-campusnet-login)
 + [go版本](https://github.com/luoboQAQ/yzu-campusnet-login)
 # 项目使用指北
-- 此项目的可执行程序仅有688KB大小
+- 此项目的可执行程序仅有272KB大小
 - 读取 `.env` 或系统环境变量
 - 定时检测是否已经联网
 - 断网后自动登录校园网
